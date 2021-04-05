@@ -17,7 +17,7 @@
 				  }
 				  else{
 				  #	echo "<li><a href=\"login.php\">Login</a></li>";
-			#	  	echo "<li><a href=\"register.php\">Register</a></li>";
+			          #	echo "<li><a href=\"register.php\">Register</a></li>";
 				  }
 
 				  ?>
@@ -28,7 +28,7 @@
              </nav>
            </div>
      
-				  	      <?php 
+				  <?php 
 				  if(isloggedin()){
 				  	$id=$_SESSION['id'];
 				  	echo "<a class=\"brand\" href=\"userhome.php?id=$id\">";
