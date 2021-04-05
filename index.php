@@ -3,8 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Find Your Perfect Partner - Matrimony | Home :: 
-</title>
+<title>Find Your Perfect Partner - Matrimony | Home :: </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -70,9 +69,7 @@ $(document).ready(function(){
       <h3>Millions of verified Members</h3>
 
       <ul> <li> <a href="register.php" class="hvr-shutter-out-horizontal">Create your Profile</a></li>
-           <li> <a href="login.php" class="hvr-shutter-out-horizontal">Login</a>
- </li>      </ul>    </div>
-  </div></div> 
+           <li> <a href="login.php" class="hvr-shutter-out-horizontal">Login</a> </li>      </ul>    </div> </div></div> 
 <!--
 <div class="grid_1">
 
