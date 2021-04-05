@@ -72,9 +72,7 @@ $(document).ready(function(){
 
         <span class="divider">&nbsp;|&nbsp;</span>
    -->
-     <li class="current-page">Login</li>
-     </ul>
-   </div>
+     <li class="current-page">Login</li>     </ul>   </div>
 
    <div class="services">
 
