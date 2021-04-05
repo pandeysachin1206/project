@@ -105,7 +105,8 @@ while ($row = mysqli_fetch_assoc($result))
     echo "<h5>" . "View Full Profile" . "</h5>"; 
     echo "</li>";
     echo "</a>";
-    echo "<input type=\"submit\" value=\"Delete\" onclick=\"delete()\"/>";
+    //echo "<input type=\"submit\" value=\"Delete\" onclick=\"delete()\"/>";
+    echo "<a href=\"delete.php?id=$profid\">Delete</a>";
     echo "</ul>";
     echo "</div>"; //left end
     $c_count++;
@@ -123,7 +124,8 @@ while ($row = mysqli_fetch_assoc($result))
     echo "<h5>" . "View Full Profile" . "</h5>";
     echo "</li>";
     echo "</a>";
-    echo "<input type=\"submit\" value=\"Delete\" onclick=\"delete()\"/>";
+    //echo "<input type=\"submit\" value=\"Delete\" onclick=\"delete()\"/>";
+    echo "<a href=\"delete.php?id=$profid\">Delete</a>";
     echo "</ul>";
     echo "</div class=\"test\">"; //right end
 
