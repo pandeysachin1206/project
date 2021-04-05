@@ -58,12 +58,7 @@
 
     		<div class="copy">
 
-		      <p>Copyright © 2021 Marital . All Rights Reserved  
-</a> </p>
-	        </div>
-    	</div>
-</div>
-</body>
+		      <p>Copyright © 2021 Marital . All Rights Reserved  </a> </p>	        </div>    	</div></div></body>
 
 <?php include_once("footer.php");?>
 <!-- FlexSlider -->
